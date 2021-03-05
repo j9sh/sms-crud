@@ -1,0 +1,26 @@
+.my-navbar {
+    font-size:15px;
+}
+
+nav {
+    height: 60px;
+}
+
+a {
+    margin: 0 5px;
+}
+
+#logout-btn {
+    margin-left: 1025px;
+}
+
+#logout-btn a {
+    color: black;
+    text-decoration: none;
+}
+
+
+nav a:hover {
+    border: 1px solid #2FFFF4;
+    border-radius: 5px; 
+}
